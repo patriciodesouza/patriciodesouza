@@ -1,7 +1,7 @@
 # Olá! Eu sou o Patricio
 
 Estudante de GPSI (Gestão e Programação de Sistemas Informáticos)  
-Apaixonado por programação, e desenvolvimento web  
+Apaixonado por programação, desenvolvimento web e de jogos  
 Objetivo: trabalhar com tecnologia nos Estados Unidos
 
 ## Tecnologias que estou a aprender
